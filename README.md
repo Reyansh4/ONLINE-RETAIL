@@ -3,4 +3,4 @@ This is an project regarding the usage of Machine learning. Here I have used a p
 
 In this i have clearly explained the what is RFM anakysis. How i have clearly preprocessed the data and segmnented the data and labelled the customers.
 
-HAPPY READING....!!!
+HAPPY CODING....!!!
